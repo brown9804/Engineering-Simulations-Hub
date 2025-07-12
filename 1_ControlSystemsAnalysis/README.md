@@ -2,10 +2,10 @@
 
 Costa Rica
 
-Belinda Brown, belindabrownr04@gmail.com
-
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
+
+Last updated: 2025-07-11
 
 ----------
 
@@ -23,3 +23,10 @@ This repository contains scripts for analyzing control system models and generat
 7. **Respuesta_sistema_antecambios_valor_deseado.m**: This script is used to analyze the system response by desired value changes.
 8. **curva_estatica.m**: This script is used to plot the static curve of a model or control system.
 9. **polos_sistema_realimentado.m**: This script is used to calculate the poles of a feedback control system.
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->

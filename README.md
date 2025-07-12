@@ -1,11 +1,11 @@
 # Engineering Simulations Hub
 
-Costa Rica 
+Costa Rica
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
-Last updated: 2020-04-14
+Last updated: 2025-07-11
 
 ------------------------------------------
 
@@ -29,7 +29,9 @@ Last updated: 2020-04-14
 14. `matlab` [JFET Type N Design Project](./14_JFET-NDesign/): This project contains a design of a JFET (Junction Field-Effect Transistor) Type N, demonstrating its characteristics and behavior.
 15. `matlab` [Simple AC to DC Converter Design](./15_AC-DC_DesignSimulation/): This project contains a design for a simple Alternating Current (AC) to Direct Current (DC) converter.
 
+<!-- START BADGE -->
 <div align="center">
-  <h3 style="color: #4CAF50;">Total Visitors</h3>
-  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
 </div>
+<!-- END BADGE -->

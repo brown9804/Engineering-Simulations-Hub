@@ -2,10 +2,10 @@
 
 Costa Rica
 
-Belinda Brown, belindabrownr04@gmail.com
-
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
+
+Last updated: 2025-07-11
 
 ----------
 
@@ -55,3 +55,10 @@ The script calculates the work and power required for the pump system. It also c
 Based on the calculated parameters, the script will suggest a suitable pump and provide an option to view the design and more information about the pump.
 
 Please note that this script is designed for a specific set of initial conditions and may not give accurate results for different conditions. Always verify the results with a qualified engineer or consultant.
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->

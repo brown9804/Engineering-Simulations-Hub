@@ -2,12 +2,12 @@
 
 Costa Rica
 
-Belinda Brown, belindabrownr04@gmail.com
-
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
-----------
+Last updated: 2025-07-11
+
+------------------------------------------
 
 This project is about designing a circuit to control the motor of a claw based on deformations in a specific area. The design takes into account the maximum and minimum voltage accepted by the microcontroller and its proportionality with the deformation, with a maximum value of 5V.
 
@@ -24,4 +24,11 @@ The `.ms14` file extension is associated with **Multisim 14**, a circuit design 
 Multisim appends a number to circuit design file extensions, which indicates the version of Multisim that created the design. For example, Multisim 12 uses the `.MS12` file extension and Multisim 13 uses the `.MS13` file extension for saving designs. Also, Multisim supports older project formats, which means that version 14 of Multisim can open an `.MS9` design created by version 9 of Multisim.
 
 To open an `.MS14` file, you can simply double-click the file or select File → Open in the Multisim software. If you're having trouble opening these files, make sure you have the latest version of NI Multisim installed on your system.
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->
 
