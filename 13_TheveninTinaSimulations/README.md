@@ -2,12 +2,12 @@
 
 Costa Rica
 
-Belinda Brown, belindabrownr04@gmail.com
-
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
-----------
+Last updated: 2025-07-11
+
+------------------------------------------
 
 This project contains designs that demonstrate how voltage and electrical flow work according to Thevenin's theorem.
 
@@ -35,3 +35,10 @@ If you don't have TINA-TI installed, you can download it from the Texas Instrume
 
 1. Open the `.TSC` files.
 2. Analyze the designs to understand how voltage and electrical flow work.
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->

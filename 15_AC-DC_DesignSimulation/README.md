@@ -2,12 +2,12 @@
 
 Costa Rica
 
-Belinda Brown, belindabrownr04@gmail.com
-
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
-----------
+Last updated: 2025-07-11
+
+------------------------------------------
 
 This project contains a design for a simple Alternating Current (AC) to Direct Current (DC) converter.
 
@@ -25,3 +25,10 @@ An AC to DC converter is a device that converts Alternating Current (AC), which 
 
 1. Open the `Crosquis_Salida_Conversor_simple_AC_DC.slx` file in MATLAB Simulink.
 2. Analyze the design to understand how an AC to DC converter works.
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->
